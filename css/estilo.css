@@ -1,5 +1,5 @@
 body{
-    color:darkslategray;
+    color:tomato;
     text-align:center;
     font-family: "Arial";
     font-size: 16px;
@@ -10,11 +10,18 @@ body{
 #container{
     width: 70%;
     padding: 1em;
-    text-align: left;
+    text-align: center;
     border: 5px solid crimson;
+    background-color:darksalmon;
     margin: 0 auto;
 }
 
+#cabecera{
+    background-color:darkred;
+    color:aliceblue;
+    text-align: center;
+    font-size: 25px;
+}
 #container h1{
     font-size: 20px;
 }
