@@ -1,5 +1,5 @@
 body{
-    color:tomato;
+    color:darkblue;
     text-align:center;
     font-family: "Arial";
     font-size: 16px;
@@ -11,13 +11,13 @@ body{
     width: 70%;
     padding: 1em;
     text-align: center;
-    border: 5px solid crimson;
-    background-color:darksalmon;
+    border: 5px solid blue;
+    background-color:rgb(55, 55, 215);
     margin: 0 auto;
 }
 
 #cabecera{
-    background-color:darkred;
+    background-color:darkblue;
     color:aliceblue;
     text-align: center;
     font-size: 25px;
